@@ -1,0 +1,30 @@
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe.config
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.pdb
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csprojAssemblyReference.cache
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.MainForm.resources
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.Properties.Resources.resources
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.GenerateResource.cache
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.exe
+C:\Users\Stefa\AppData\Local\Temporary Projects\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.pdb
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.MainForm.resources
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.Properties.Resources.resources
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.GenerateResource.cache
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.CoreCompileInputs.cache
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.exe
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.pdb
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe.config
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.pdb
+C:\Stefan Work\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csprojAssemblyReference.cache
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe.config
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.exe
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\bin\Debug\CSharpShooter_ST.pdb
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csprojAssemblyReference.cache
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.MainForm.resources
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.Properties.Resources.resources
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.GenerateResource.cache
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.exe
+C:\Users\Stefa\OneDrive\Desktop\CSharpShooter_ST\CSharpShooter_ST\obj\Debug\CSharpShooter_ST.pdb
